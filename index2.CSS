@@ -1,0 +1,68 @@
+.text{
+    padding-top: 100px;
+}
+.text p{
+    line-height:0.5;
+}
+*{
+    color: #1a39b4;
+}
+label, .info{
+    position: relative;
+    top: -20px;
+}
+.form-control{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #1a39b4;
+    border-radius: 0px;
+    padding-bottom: 0px !important;
+}
+#info{
+    position: relative;
+    top: -30px !important;
+}
+.boxed{
+    box-sizing: border-box;
+    border: 1px solid  #1a39b4;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    height: 135px;
+}.belowboxed{
+    padding-top: 40px;
+}
+.age{
+    margin-top: -35px;
+}
+.anterior{
+    padding-top: 50px;
+}
+.nometal{
+    margin-top: -60px;
+}
+.boxed2{
+    padding-right: 50px !important;
+    padding-bottom: 50px !important;
+    height: 145px;
+    padding-left: 50px !important;
+}
+.boxed3{
+    position: relative;
+    top: -120px;
+    box-sizing: border-box;
+    border: 1px solid  #1a39b4;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    height: 245px;  
+}
+.pontic_img{
+    margin-top: -45px;
+}
+.text-area{
+    box-sizing: border-box;
+    border: 1px solid #1a39b4;
+    border-radius: 5px;
+    height: 120px;
+}
